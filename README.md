@@ -9,7 +9,7 @@ This dataset contains annotated red blood cells(RBC) and white blood cells(WBC) 
 ## About Blood Cell Detection Dataset
 
 - Images are collected from peripheral blood smear slides on a light microscope with high magnification and resolution.
-- It contains 100 annotated images with labeled RBC as 2237and WBC as 103.
+- It contains 100 annotated images with labeled **RBC as 2237** and **WBC as 103**.
 - Every image contains RGB channels and also is 256 pixels in both height and width.
 - **images** folder contains image files as a png format. **annotations.csv** file contains both locations and labels.
 - The total dataset file size is approximately 14MB.
