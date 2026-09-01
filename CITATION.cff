@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "WBC & RBC detection dataset from peripheral blood smears"
+authors:
+  - family-names: "Aslan"
+    given-names: "A."
+    orcid: "https://orcid.org/0000-0001-8226-8462"
+type: dataset
+date-released: 2020-04-29
+doi: 10.57967/hf/10256
+url: "https://github.com/draaslan/blood-cell-detection-dataset"
+license: MIT
+keywords:
+  - blood cell detection
+  - peripheral blood smear
+  - object detection
+  - medical imaging
