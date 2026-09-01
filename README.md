@@ -57,6 +57,8 @@ Aslan, A. (2020). *WBC & RBC detection dataset from peripheral blood smears* [Da
 
 Aslan A. WBC & RBC detection dataset from peripheral blood smears [Internet]. 2020. Available from: https://doi.org/10.57967/hf/10256
 
+**Author ORCID:** [0000-0001-8226-8462](https://orcid.org/0000-0001-8226-8462)
+
 ## Licence
 
 See LICENSE for details.
